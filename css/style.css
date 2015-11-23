@@ -364,3 +364,16 @@ footer a:hover
   left: 385px;
   top: 135px;
 }
+
+.news-item {
+    margin-bottom: 10px;
+}
+
+.news-item span {
+    color: black;
+}
+
+.news-item .date {
+    color: #525252;
+    font-weight: bold;
+}
