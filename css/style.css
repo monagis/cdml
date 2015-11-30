@@ -116,10 +116,9 @@ nav
   color: #FFF;}
 
 #menubar
-{ width: 940px;
+{ width: 950px;
   height: 55px;
   padding-top: 10px;
-  padding-left:146px;
   text-align: center;
   margin: 0 auto;}
 
@@ -363,4 +362,17 @@ footer a:hover
   border-radius: 5px;
   left: 385px;
   top: 135px;
+}
+
+.news-item {
+    margin-bottom: 10px;
+}
+
+.news-item span {
+    color: black;
+}
+
+.news-item .date {
+    color: #525252;
+    font-weight: bold;
 }
